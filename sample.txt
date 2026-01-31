@@ -1,2 +1,4 @@
 Changes made in feature branch.
+This line is written in conflict branch.
+
 
