@@ -1,4 +1,1 @@
-Changes made in feature branch.
-This line is written in conflict branch.
-
-
+This line is from MAIN branch
